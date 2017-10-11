@@ -2,7 +2,6 @@
 
 #This is logrunner, which displays a feed of new entries appended to a log file.
 #Handy for watching apache or nginx access/error logs.
-#Chris Mailloux
 
 import argparse,time,atexit,os,datetime
 
