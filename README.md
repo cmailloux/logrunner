@@ -1,3 +1,2 @@
 # logrunner
 Displays a feed of updates being appended to the log file of your choosing. Handy for watching apache or nginx server logs.
-Chris Mailloux
