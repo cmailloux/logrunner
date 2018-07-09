@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-#This is logrunner, which displays a feed of new entries appended to a log file.
+#This is logrunner, which displays a feed of new entries appended to a log file. 
+#It is essentially a python equivalent of the tail -f command in GNU/Linux.
 #Handy for watching apache or nginx access/error logs.
 #Chris Mailloux
 
